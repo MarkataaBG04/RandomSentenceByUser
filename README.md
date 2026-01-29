@@ -51,10 +51,7 @@ The application generates sentences based on a predefined sentence structure:
 ## 📸 Screenshots
 Below are example screenshots of the application in action:
 
-![Random Sentence Generator Screenshot](images/screenshot1.png)
-![Colored Console Output](images/screenshot2.png)
-
-*(Add screenshots by pasting them directly into the GitHub editor or linking from an `images` folder)*
+![Random Sentence Generator Screenshot](screenshots/Screenshot_3.png)
 
 ---
 
