@@ -44,9 +44,7 @@ The application generates sentences based on a predefined sentence structure:
 ---
 
 ## 💻 Source Code
-🔗 [View the source code on GitHub](https://github.com/your-username/RandomSentenceByUser)  
-
-*(Replace with your real GitHub link)*
+🔗 [View the source code on GitHub](https://github.com/MarkataaBG04/RandomSentenceByUser.git)  
 
 ---
 
